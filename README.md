@@ -12,15 +12,15 @@ I am thoroughly enchanted by the **Double Exposure** technique prevalent in digi
 - This technique lends a rich tapestry of meanings and narrative depths to the artwork, seamlessly aligning with the aspirations of my major project.
 
 **Images**:
-1. 
+1. Example 1
 ![Double Exposure Example 1](readmeImages/23_6554edd3-3439-40d4-8d28-e16a025202db_540x.jpg)
-2. 
+2. Example 2
 ![Double Exposure Example 2](readmeImages/double-exposure-paintings-cristian-blanxer-1.jpeg)
-3. 
+3. Example 3
 ![Double Exposure Example 3](readmeImages/double-exposure-paintings-cristian-blanxer-5.jpeg)
-4. 
+4. Example 4
 ![Double Exposure Example 4](readmeImages/double-exposure-paintings-cristian-blanxer-12.jpeg)
-5. 
+5. Example 5
 ![Double Exposure Example 5](readmeImages/double-exposure-paintings-cristian-blanxer-14.png)
 
 
