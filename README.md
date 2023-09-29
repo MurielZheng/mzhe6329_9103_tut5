@@ -12,8 +12,8 @@ I am thoroughly enchanted by the **Double Exposure** technique prevalent in digi
 - This technique lends a rich tapestry of meanings and narrative depths to the artwork, seamlessly aligning with the aspirations of my major project.
 
 **Images**:
-![Double Exposure Example 1](double_exposure1.jpg)
-![Double Exposure Example 2](double_exposure2.jpg)
+![Double Exposure Example 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmymodernmet.com%2Fdouble-exposure-portrait-paintings-cristian-blanxer%2F&psig=AOvVaw2gcprwAyZnD6w3OU5yyHet&ust=1696051087667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCw9OaIz4EDFQAAAAAdAAAAABAg)
+![Double Exposure Example 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhousehathaway.com%2Fproducts%2Fdouble-exposure-bison-buffalo&psig=AOvVaw2gcprwAyZnD6w3OU5yyHet&ust=1696051087667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCLCw9OaIz4EDFQAAAAAdAAAAABCBAQ)
 
 
 ## Part 2: Coding Technique Exploration
