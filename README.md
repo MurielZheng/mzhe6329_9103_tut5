@@ -12,8 +12,11 @@ I am thoroughly enchanted by the **Double Exposure** technique prevalent in digi
 - This technique lends a rich tapestry of meanings and narrative depths to the artwork, seamlessly aligning with the aspirations of my major project.
 
 **Images**:
-![Double Exposure Example 1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmymodernmet.com%2Fdouble-exposure-portrait-paintings-cristian-blanxer%2F&psig=AOvVaw2gcprwAyZnD6w3OU5yyHet&ust=1696051087667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCw9OaIz4EDFQAAAAAdAAAAABAg)
-![Double Exposure Example 2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhousehathaway.com%2Fproducts%2Fdouble-exposure-bison-buffalo&psig=AOvVaw2gcprwAyZnD6w3OU5yyHet&ust=1696051087667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCLCw9OaIz4EDFQAAAAAdAAAAABCBAQ)
+![Double Exposure Example 1](readmeImages/23_6554edd3-3439-40d4-8d28-e16a025202db_540x.jpg)
+![Double Exposure Example 2](readmeImages/double-exposure-paintings-cristian-blanxer-1.jpeg)
+![Double Exposure Example 3](readmeImages/double-exposure-paintings-cristian-blanxer-5.jpeg)
+![Double Exposure Example 4](readmeImages/double-exposure-paintings-cristian-blanxer12.jpeg)
+![Double Exposure Example 5](readmeImages/double-exposure-paintings-cristian-blanxer-14.png)
 
 
 ## Part 2: Coding Technique Exploration
@@ -22,12 +25,14 @@ My quest to digitally reincarnate the Double Exposure effect led me to the `blen
 
 **How it Contributes**:
 - Utilizing this function, the fusion of two images becomes a seamless affair, allowing fine-tuning of intensity and aesthetics, thus digitally mirroring the Double Exposure allure.
+- This digital approach not only mirrors the classical Double Exposure effect but adds a controllable dimension, permitting fine-tuned artistic expression. Through code, a surreal visual narrative marrying contrasting images is brought to life effortlessly.
 
 **Screenshot**:
-![p5.js Blend Mode](p5js_blendmode.jpg)
+![p5.js Blend Mode](readmeImages/截屏2023-09-29 15.45.02.png)
 
 **Link to Example Implementation**:
 - [p5.js Blend Mode Tutorial](https://p5js.org/zh-Hans/reference/#/p5/blendMode)
+- [p5.js blendMode() Function](https://www.geeksforgeeks.org/p5-js-blendmode-function/)
 
 ---
 
